@@ -7,3 +7,5 @@ death-by-git
 ## Feature 2 - Rebase Experiment
 
 ## Feature 2 - Rebase Experiment-2
+
+## Feature 2 - Rebase Experiment (main branch changes)
