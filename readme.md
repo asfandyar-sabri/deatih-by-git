@@ -7,6 +7,3 @@ death-by-git
 ## Feature 2 - Rebase Experiment
 
 ## Feature 2 - Rebase Experiment-2
-
-## Commit with ammend test
- 
