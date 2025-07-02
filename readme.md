@@ -11,3 +11,6 @@ death-by-git
 ## Feature 2 - Rebase Experiment (main branch changes)
 
 ## Feature 5
+
+## Cherry-Pick Changes
+This is a change on cherry-pick.
