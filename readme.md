@@ -9,3 +9,5 @@ death-by-git
 ## Feature 2 - Rebase Experiment-2
 
 ## Main initial update
+
+## Feature: work in rebase-demo
