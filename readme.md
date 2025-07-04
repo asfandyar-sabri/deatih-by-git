@@ -16,3 +16,5 @@ death-by-git
 This is a change on cherry-pick.
 
 ## Push test
+
+## demo: add reflog step 1
