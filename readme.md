@@ -21,6 +21,4 @@ This is a change on cherry-pick.
 
 ## demo: add reflog step 2
 
-## demo: add reflog step 3
-
 
