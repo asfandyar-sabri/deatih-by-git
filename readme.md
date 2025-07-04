@@ -10,6 +10,5 @@ death-by-git
 
 ## Main initial update
 
-
-
 ## Main: second update
+## Feature: work in rebase-demo
